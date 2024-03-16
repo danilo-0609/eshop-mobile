@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="eShop_mobile.LoginPage">
+
+    <Grid Padding="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="AUTO"/>
+            <RowDefinition Height="AUTO"/>
+            <RowDefinition Height="AUTO"/>
+            <RowDefinition Height="AUTO"/>
+            <RowDefinition Height="AUTO"/>
+            <RowDefinition Height="AUTO"/>
+            <RowDefinition Height="AUTO"/>
+            <RowDefinition Height="AUTO"/>
+        </Grid.RowDefinitions>
+
+        <StackLayout>
+            <Label 
+                FontSize="34" 
+                FontFamily="Alice" 
+                HorizontalTextAlignment="Center"
+                Text="La Talla Perfecta"/>
+        </StackLayout>
+
+        <Label FontSize="40"
+                   FontFamily="Alice" 
+                   HorizontalTextAlignment="Center" 
+                   Text="Inicia Sesión"
+                   Grid.Row="2"
+                   Margin="29"/>
+
+        <StackLayout Grid.Row="3" HorizontalOptions="Center">
+            <Label Text="Inicia sesión en La Talla Perfecta para registrar tus compras, "
+                FontSize="23"
+                FontFamily="Alice"
+                HorizontalTextAlignment="Center"/>
+
+            <Label Text="ver productos, publicarlos"
+                   FontSize="23"
+                   FontFamily="Alice"
+                   HorizontalTextAlignment="Center"/>
+
+            <Label Text="y mucho más"
+                   FontSize="23"
+                   FontFamily="Alice"
+                   HorizontalTextAlignment="Center"/>
+        </StackLayout>
+
+        <StackLayout Padding="20" Grid.Row="4">
+            <Entry Placeholder="correo electrónico" 
+                   PlaceholderColor="Black"                    
+                   FontFamily="Alice" 
+                   FontSize="20" 
+                   BackgroundColor="#FFFFFF"
+                   TextColor="Black"
+                   Margin="0, 20"/>
+
+            <Entry Placeholder="contraseña" 
+                   PlaceholderColor="Black"
+                   FontFamily="Alice" 
+                   FontSize="20" 
+                   BackgroundColor="#FFFFFF" 
+                   IsPassword="true"
+                   IsVisible="{Binding IsPasswordVisible}"/>
+
+
+            <Label Text="¿Olvidaste tu contraseña?"
+                   FontFamily="Alice" 
+                   FontSize="15"
+                   Margin="0, 15"/>
+        </StackLayout>
+
+        <Button Text="Iniciar sesión"
+                Padding="10"
+                BackgroundColor="Black"
+                TextColor="White"
+                FontSize="25"
+                FontFamily="Alice"
+                Grid.Row="5"
+                Clicked="OnLoginButtonClicked"/>
+
+        <Label
+            Text="o"
+            HorizontalTextAlignment="Center"
+            FontFamily="Alice"
+            FontSize="15"
+            Margin="0, 10"
+            Grid.Row="6"/>
+
+        <Button Text="Regístrate"
+                Padding="10"
+                BackgroundColor="Black"
+                TextColor="White"
+                FontSize="25"
+                FontFamily="Alice"
+                Grid.Row="7"
+                Clicked="OnSignupButtonClicked"/>
+    </Grid>
+</ContentPage>

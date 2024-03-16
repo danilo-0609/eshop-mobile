@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModel="clr-namespace:eShop_mobile.ViewModels"
+             xmlns:model="clr-namespace:eShop_mobile.Models"
+             x:DataType="viewModel:HomeViewModel"
+             x:Class="eShop_mobile.HomePage"
+             Title="HomePage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackLayout Grid.Row="0">
+            <Label FontSize="34" 
+               FontFamily="Alice" 
+               HorizontalTextAlignment="Center"
+               Text="La Talla Perfecta"/>
+        </StackLayout>
+
+        <StackLayout Grid.Row="1"
+                     Margin="0, 20, 0, 0">
+            <Image 
+                Source="{Binding Presentations[0].ImageUri}"
+                Aspect="AspectFill"/>
+            
+        </StackLayout>
+
+        <StackLayout Grid.Row="1">
+
+            <Label
+                FontSize="24"
+                FontFamily="Alice"
+                HorizontalTextAlignment="Start"
+                VerticalTextAlignment="End"
+                Text="{Binding Presentations[0].Description}"
+                TextColor="White"
+                Margin="20, 60"/>
+
+            <Button
+                Margin="10, 80"
+                Text="Ver hombre"
+                BackgroundColor="Gray"
+                TextColor="Black"
+                FontSize="20"
+                FontFamily="Alice"/>
+
+        </StackLayout>
+
+        <StackLayout Grid.Row="2"
+                     Margin="0, 10, 0, 0">
+            
+            <Image Grid.Row="2"
+                Source="{Binding Presentations[1].ImageUri}"
+                Aspect="AspectFill"/>
+            
+        </StackLayout>
+
+        <StackLayout Grid.Row="2">
+
+            <Label
+                FontSize="24"
+                FontFamily="Alice"
+                HorizontalTextAlignment="Start"
+                VerticalTextAlignment="End"
+                Text="{Binding Presentations[1].Description}"
+                TextColor="White"
+                Margin="20, 60"/>
+
+            <Button
+                Margin="10, 90"
+                Text="Ver mujer"
+                BackgroundColor="Gray"
+                TextColor="Black"
+                FontSize="20"
+                FontFamily="Alice"/>
+
+        </StackLayout>
+
+    </Grid>
+</ContentPage>

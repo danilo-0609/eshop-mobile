@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|c:\\users\\usuario\\desktop\\side-projects\\eshop-mobile\\eshop-mobile\\eshop-mobile\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|solutionrelative:eshop-mobile\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|c:\\users\\usuario\\desktop\\side-projects\\eshop-mobile\\eshop-mobile\\eshop-mobile\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|solutionrelative:eshop-mobile\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|c:\\users\\usuario\\desktop\\side-projects\\eshop-mobile\\eshop-mobile\\eshop-mobile\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|solutionrelative:eshop-mobile\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|c:\\users\\usuario\\desktop\\side-projects\\eshop-mobile\\eshop-mobile\\eshop-mobile\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|solutionrelative:eshop-mobile\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|c:\\users\\usuario\\desktop\\side-projects\\eshop-mobile\\eshop-mobile\\eshop-mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|solutionrelative:eshop-mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|c:\\users\\usuario\\desktop\\side-projects\\eshop-mobile\\eshop-mobile\\eshop-mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC631D76-C21E-4F3A-BBCD-FD499B6CBC93}|eShop-mobile\\eShop-mobile.csproj|solutionrelative:eshop-mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\SignupPage.xaml",
+              "RelativeDocumentMoniker": "eShop-mobile\\SignupPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\SignupPage.xaml",
+              "RelativeToolTip": "eShop-mobile\\SignupPage.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAFsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-16T21:42:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "eShop-mobile\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\LoginPage.xaml",
+              "RelativeToolTip": "eShop-mobile\\LoginPage.xaml",
+              "ViewState": "AQIAADcAAAAAAAAAAABBwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-16T21:03:46.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "eShop-mobile\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\HomePage.xaml.cs",
+              "RelativeToolTip": "eShop-mobile\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:30:37.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\HomePage.xaml",
+              "RelativeDocumentMoniker": "eShop-mobile\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\HomePage.xaml",
+              "RelativeToolTip": "eShop-mobile\\HomePage.xaml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T23:25:15.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "eShop-mobile\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\MauiProgram.cs",
+              "RelativeToolTip": "eShop-mobile\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:49:24.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "eShop-mobile\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\side-projects\\eShop-mobile\\eShop-mobile\\eShop-mobile\\AppShell.xaml",
+              "RelativeToolTip": "eShop-mobile\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T23:04:42.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
